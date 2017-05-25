@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+This is the repository for the first blog app of the complete ruby on rails course
+
 * Ruby version
 
 * System dependencies
